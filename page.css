@@ -12,19 +12,21 @@
 #second>#name {
 	
 	height: 300px;
+	width: 30%;
 	background-color: #f05b72;
 	float: left;
 }
 
 #second>#age {
 	height: 300px;
+	width: 40%;
 	background-color: #f47920;
 	float:left;
 }
 
 #second>#birthday {
 	height: 300px;
+	width: 30%;
 	background-color: #454926;
-	/*width: 30%;*/
 	float: right;
 }
