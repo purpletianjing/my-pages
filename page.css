@@ -1,0 +1,30 @@
+#top {
+	width: 100%;
+	height: 300px;
+	background-color: #fedcbd;
+}
+
+#top>h3 {
+	padding-top: 140px;
+	text-align: center;
+}
+
+#second>#name {
+	
+	height: 300px;
+	background-color: #f05b72;
+	float: left;
+}
+
+#second>#age {
+	height: 300px;
+	background-color: #f47920;
+	float:left;
+}
+
+#second>#birthday {
+	height: 300px;
+	background-color: #454926;
+	/*width: 30%;*/
+	float: right;
+}
